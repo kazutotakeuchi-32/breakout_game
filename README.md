@@ -5,7 +5,7 @@
 # Demo
 <img src="/images/breakout_game2.gif" width="500px" height="300px"><br><br>
 
-- [Demo](https://taketon-blog.com/kazugramming/%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e5%b4%a9%e3%81%97%e3%82%b2%e3%83%bc%e3%83%a0/)
+- [Demo](https://kazutotakeuchi-32.github.io/breakout_game/)
 - [ブログ解説記事](https://taketon-blog.com/kazugramming/%e3%83%96%e3%83%ad%e3%83%83%e3%82%af%e5%b4%a9%e3%81%97%e3%82%b2%e3%83%bc%e3%83%a0/)
 # Install
   下記のコマンドを実行してください。<br><br>
